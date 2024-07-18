@@ -1,0 +1,68 @@
+body { font-family: sans-serif;}
+header{
+    border: 6px solid darkblue;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px auto;
+}
+header a {
+    color: white;
+    background-color: darkblue;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;}
+header b {
+    color: darkblue;
+    font-size: 20px;
+    padding: 5px;}
+h1 {
+    text-align: center;
+    color: darkblue;
+    padding: 10px;}
+footer {
+    background-color: darkblue;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid darkblue;
+    margin: 10px auto;
+}
+footer p {
+    background-color: white;
+    padding: 5px;
+    font-size: 20px;
+    color: darkblue;
+    border-radius: 10px;
+    border: 1px solid darkblue;
+}
+nav {
+    margin: 10px auto;
+    padding: 20px;
+    display: flex;
+    justify-content:space-around;
+}
+nav a{
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid navy;
+    border-radius: 10px;
+    background-color: navy;
+}
+.products{
+    background-color: white;
+    color: navy;
+}
+.product {
+    border: 6px solid navy;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+    color: navy;
+
+}
+h2 {
+    color: navy;
+    text-align: center;
+}
